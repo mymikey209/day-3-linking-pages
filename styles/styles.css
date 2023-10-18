@@ -1,0 +1,19 @@
+body {
+  background-color: grey;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+p {
+  color: brown;
+  font-size: 25px;
+}
+
+.flexMe {
+  text-align: center;
+  border: 3px solid;
+  display: flex;
+  justify-content: space-evenly;
+}
